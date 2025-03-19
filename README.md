@@ -13,13 +13,13 @@ More features of the game are planned for the future, such as design challenges,
 
 This game uses mouse and keyboard controls.
 
-Click an object in the cataglogue on the right of the screen to plop it onto the work are.
-Click and drag objects to move them around the work area.
+Click an object in the cataglogue on the right of the screen to plop it onto the work area.
+Once generated in the work area, click and drag objects to move them around.
 A yellow border shows the object your mouse hovers over, and which will be selected when you click.
 A pink border means an object is selected.
 
-Objecs can be recolored with the swatches on the left of the screen, b
-ut you must first select one of the dots above the swatches to select what material you want te recolor.
+Objecs can be recolored with the swatches on the left of the screen, 
+but you must first select one of the dots above the swatches to select what material you want to recolor.
 
 Q and E keys: rotate the selected object
 X key: deletes the selected object
