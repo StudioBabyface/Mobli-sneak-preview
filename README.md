@@ -26,4 +26,12 @@ X key: deletes the selected object
 
 
 ## Credits
-This game and all of its assets are made by me, Annelies Hofman. 
+This game and all of its assets are made by Annelies Hofman. 
+Special thanks to GDevelop for providing their free and accessible gaming engine.
+
+
+Copyright (c) 2025 Annelies Hofman
+
+All rights reserved. You may not copy, modify, distribute, or sell this game or its assets without prior written permission from the author. 
+You may use the game for personal, non-commercial purposes only. Commercial use, redistribution, or modification is prohibited.
+
