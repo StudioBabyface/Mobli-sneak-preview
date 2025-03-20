@@ -1,0 +1,15 @@
+{
+  "name": "Möbli | Sneak Preview 0.0 local",
+  "short_name": "Möbli | Sneak Preview 0.0 local",
+  "id": "com.example.gamename",
+  "description": "Möbli is a cozy decorator game that combines handcrafted miniature furniture with the latest interior design trends. It is all about celebrating imperfections and having carefree fun, it is a space to relax and be creative without any expectations.\n\nMöbli is my passion project and this version is only a sneak preview of what I am working on. For more information: visit studiobabyface.com",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "desktop-icon-512.png.png",
+        "sizes": "512x512"
+      }]
+}
