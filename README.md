@@ -30,8 +30,8 @@ This game and its assets are made by Annelies Hofman.
 Special thanks to GDevelop for providing their free and accessible gaming engine.
 
 Fonts used:
-Fredoka - by Milena Brandão, Hafontia
-Darumadrop One - by Maniackers Design
+Fredoka - by Milena Brandão, Hafontia.
+Darumadrop One - by Maniackers Design.
 
 Copyright (c) 2025 Annelies Hofman
 
